@@ -23,7 +23,7 @@ pod 'MaterialSwitch'
 
 ### Sample Gif
 
-![Material Switch](https://github.com/ArtSabintsev/MaterialSwitch/blob/master/MaterialSwitch?raw=gif "Material Switch")
+![Material Switch](https://github.com/ArtSabintsev/MaterialSwitch/blob/master/MaterialSwitch.gif "Material Switch")
 
 ### Created and maintained by
 [Arthur Ariel Sabintsev](http://www.sabintsev.com/)
