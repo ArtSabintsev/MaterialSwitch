@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MaterialSwitch"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "A Material Design implementation of the UISwitch control paradigm."
   s.homepage     = "https://github.com/ArtSabintsev/MaterialSwitch"
   s.license      = "MIT"

@@ -8,17 +8,17 @@
 
 import UIKit
 
-protocol MaterialSwitchDelegate {
+public protocol MaterialSwitchDelegate {
     func switchDidChangeState(#aSwitch: MaterialSwitch, currentState: MaterialSwitchState)
 }
 
-internal enum MaterialSwitchState: Int {
+public enum MaterialSwitchState: Int {
     case Off
     case On
 }
 
 // Typealiases
-typealias MaterialSwitchSize = (x: CGFloat, y: CGFloat, radius: CGFloat)
+public typealias MaterialSwitchSize = (x: CGFloat, y: CGFloat, radius: CGFloat)
 
 // Class
 public class MaterialSwitch: UIView {

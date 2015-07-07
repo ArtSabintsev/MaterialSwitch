@@ -6,8 +6,8 @@
 ### About
 **MaterialSwitch** is a Material Design inspired switch contorl for iOS that's written in Swift.
 
-### Changelog (v0.1.0)
-- Initial Release
+### Changelog (v0.1.2)
+- Made everything public
 
 ### Future Features
 - [x] Interface Builder Support (maybe)
