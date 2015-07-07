@@ -14,7 +14,6 @@
 
 ### Installation Instructions
 
-#### CocoaPods Installation
 ```ruby
 pod 'MaterialSwitch'
 ```
