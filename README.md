@@ -19,8 +19,6 @@
 pod 'MaterialSwitch'
 ```
 
-### Setup Instructions	
-
 ### Sample Gif
 
 ![Material Switch](https://github.com/ArtSabintsev/MaterialSwitch/blob/master/Sample.gif "Material Switch")
