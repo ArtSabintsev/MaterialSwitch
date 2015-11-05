@@ -3,24 +3,24 @@
 ### A Material Design inspired switch for iOS
 
 ---
-### About
+## About
 **MaterialSwitch** is a Material Design inspired switch contorl for iOS that's written in Swift.
 
-### Changelog (v0.1.1)
+## Changelog (v0.1.1)
 - Made everything public
 
-### Future Features
+## Future Features
 - [x] Interface Builder Support (maybe)
 
-### Installation Instructions
+## Installation Instructions
 
 ```ruby
 pod 'MaterialSwitch'
 ```
 
-### Sample Gif
+## Sample Gif
 
 ![Material Switch](https://github.com/ArtSabintsev/MaterialSwitch/blob/master/Sample.gif "Material Switch")
 
-### Created and maintained by
+## Created and maintained by
 [Arthur Ariel Sabintsev](http://www.sabintsev.com/)
