@@ -2,8 +2,9 @@
 //  MaterialSwitch.swift
 //  MaterialSwitch
 //
-//  Created by Arthur Sabintsev on 6/25/15.
+//  Created by Arthur Sabintsev on 6/25/2015.
 //  Copyright (c) 2015 Arthur Ariel Sabintsev. All rights reserved.
+//  Edited by Jobins John on 03/31/2016.
 //
 
 import UIKit

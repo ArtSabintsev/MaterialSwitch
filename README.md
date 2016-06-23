@@ -23,4 +23,4 @@ pod 'MaterialSwitch'
 ![Material Switch](https://github.com/ArtSabintsev/MaterialSwitch/blob/master/Sample.gif "Material Switch")
 
 ## Created and maintained by
-[Arthur Ariel Sabintsev](http://www.sabintsev.com/)
+[Jobins John](http://www.jobins.me/)
